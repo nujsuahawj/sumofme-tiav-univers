@@ -1,0 +1,11 @@
+CREATE DATABASE Thongkab_Height_School;
+
+
+student id= S_ID varchar(100) not null,
+teacher id=t_ID varchar(100) not null,
+floor id=f_ID int  not null,
+class id=c_ID int not null,
+subjec id=sj_Name varchar(100) not null,
+core id=    year int not null,date int not null,
+lack id= l_ID int not null AUTO_INCREMENT,
+teach id =tch_ID int not null AUTO_INCREMENT,
